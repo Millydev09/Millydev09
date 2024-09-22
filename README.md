@@ -12,5 +12,5 @@
 - 🌱 Atualmente estou aprendendo   html,css, javascript e  c++;
 -🧑‍🎓 Cursando Análise e desenvolvimento de sistemas 2/6
    no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Campos do Jordão  ;
-- 🤔 I’m looking for help with solution development and learn new tecnologies;
-- 📫 How to reach me: jamillyvieiradasilva0@gmail.com;
+
+
